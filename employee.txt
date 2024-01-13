@@ -1,0 +1,6 @@
+305586,rama, s1, full, 300
+202210,raghad, s1, part-time, 200
+123456,ali, s2, part-time, 100
+876543,saif, s2, part-time, 300
+536478,luna, s3, full, 200
+734675,jihad, s3, full, 100
